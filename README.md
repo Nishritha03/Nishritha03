@@ -44,11 +44,15 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-### **Data Science & Machine Learning:**
+### **Ai & Machine Learning:**
 <div align="Left">
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine_Learning-0084FF?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-4A154B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-2F6E73?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-5E4B8B?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_Databases-14A76C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ### **Tools & Platforms:**
