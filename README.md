@@ -9,9 +9,8 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
   <tr>
     <td>
       <ul>
-        <li>🌱 <strong>Learning:</strong> Diving deeper into AI/ML concepts, building projects, and sharpening my problem-solving skills.</li>
-        <li>🔬 <strong>Interests:</strong> Generative AI, Data Science, and Natural Language Processing.</li>
-        <li>🎨 <strong>Fun Fact:</strong> I enjoy collaborating with creative people and exploring new ideas.</li>
+        <li>📘 <strong>Education:</strong> Currently pursuing B.Tech in CSE with a specialization in Artificial Intelligence.</li>
+        <li>🌱 <strong>Learning:</strong> Exploring AI/ML concepts, Generative AI.</li>
       </ul>
     </td>
     <td>
@@ -22,23 +21,9 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
   </tr>
 </table>
 
-
-  
-
 - 💻 **Work Experience**:  
   - **Python Developer Intern**: Built robust data pipelines using Selenium and BeautifulSoup4.  
   - **AI/ML Intern**: Designed and implemented AI solutions, including Generative AI projects.  
-
-- 💡 **Projects**:  
-  - **Sentiment Analysis for Job Recommendations**: A tool that analyzes user sentiment to recommend tailored jobs.  
-  - **Weather Report Bot**: Automated chatbot delivering real-time weather updates.  
-
-- 🌱 **Passions**:  
-  - AI, Machine Learning, Generative AI, and building intelligent systems.  
-
-- 🏆 **Career Goal**: To become a cutting-edge **AI/ML Engineer** solving impactful challenges.  
-
----
 
 ## ⚙️ Tech Stack  
 
@@ -92,8 +77,4 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
 - 🌐 [Portfolio](#)  
 - 📧 **Email**: [Your Email Address]  
 
----
 
-<div align="center">
-  <h3>✨ "The best way to predict the future is to create it." ✨</h3>  
-</div>  
