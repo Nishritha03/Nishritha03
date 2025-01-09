@@ -25,29 +25,43 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
   - **Python Developer Intern**: Built robust data pipelines using Selenium and BeautifulSoup4 and worked on genai projects.  
   - **AI/ML Intern**: Implemented an interview assistant machine learning model and integrated video anti cheating detection.  
 
-## ⚙️ Tech Stack  
+## ⚙️ Tech Stack
 
+### **Programming Languages:**
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-4A154B?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+### **Data Science & Machine Learning:**
+<div align="center">
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine_Learning-0084FF?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge&logo=tableau&logoColor=white" />
-  
-## Tools 
+</div>
+
+### **Tools & Platforms:**
 <div align="center">
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-FF2B1D?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
+### **Web Scraping:**
+<div align="center">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup4-4F5B93?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
-</div>  
+### **Data Visualization:**
+<div align="center">
+  <img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge&logo=tableau&logoColor=white" />
+</div>
 
 ---
+
 
 ## 🔥 Featured Projects  
 
