@@ -99,10 +99,18 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
 
 
 ---
+## 🗣 Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishritha03&layout=compact&theme=radical)
+
+## 📈 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nishritha03&theme=radical)
+
 
 ## 📫 Let’s Connect!  
 
-- 💼 [LinkedIn](www.linkedin.com/in/nishrithadamera)  
+- 💼 <a href="https://www.linkedin.com/in/nishrithadamera" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 - 📧 **Email**: nishrithadamera@gmail.com  
 
 
