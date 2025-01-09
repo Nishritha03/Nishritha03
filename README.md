@@ -7,13 +7,13 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <ul>
         <li>📘 <strong>Education:</strong> Currently pursuing B.Tech in CSE with a specialization in Artificial Intelligence.</li>
         <li>🌱 <strong>Learning:</strong> Exploring AI/ML concepts, Generative AI.</li>
       </ul>
     </td>
-    <td>
+    <td width="50%">
       <div align="right">
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="AI Enthusiast">
       </div>
@@ -22,27 +22,30 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
 </table>
 
 - 💻 **Work Experience**:  
-  - **Python Developer Intern**: Built robust data pipelines using Selenium and BeautifulSoup4 and worked on genai projects.  
-  - **AI/ML Intern**: Implemented an interview assistant machine learning model and integrated video anti cheating detection.  
+  <h3>**Python Developer Intern & AI/ML Intern**</h3>  
+  - Built robust data pipelines using Selenium and BeautifulSoup4.  
+  - Worked on Generative AI projects.  
+  - Implemented an interview assistant machine learning model.  
+  - Integrated video anti-cheating detection. 
 
 ## ⚙️ Tech Stack
 
 ### **Programming Languages:**
-<div align="center">
+<div align="Left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ### **Data Science & Machine Learning:**
-<div align="center">
+<div align="Left">
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine_Learning-0084FF?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </div>
 
 ### **Tools & Platforms:**
-<div align="center">
+<div align="Left">
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-FF2B1D?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
@@ -50,7 +53,7 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
 </div>
 
 ### **Web Scraping:**
-<div align="center">
+<div align="Left">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/BeautifulSoup4-4F5B93?style=for-the-badge&logo=python&logoColor=white" />
 </div>
