@@ -94,7 +94,7 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/26gsgZ44bJjFE56T2/giphy.gif" width="400" alt="Professional Learning">
+      <img src="https://media.giphy.com/media/5hmu37JLOd5oVrH7po/giphy.gif" width="400" alt=" Learning">
     </td>
     <td width="50%" valign="top">
       <h3>Currently Exploring</h3>
