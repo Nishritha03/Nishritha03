@@ -2,15 +2,17 @@
 
 Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 6 months of experience in python developement. 🚀 
 
+
+
+## 🧠 About Me  
+
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="AI Enthusiast">
+<div align="Right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" alt="AI Enthusiast">
 </div>  
 
 ---
-
-## 🧠 About Me  
 
 - 💻 **Work Experience**:  
   - **Python Developer Intern**: Built robust data pipelines using Selenium and BeautifulSoup4.  
