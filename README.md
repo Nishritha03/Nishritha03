@@ -4,22 +4,8 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
 
 
 ## 🧠 About Me
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li>📘 <strong>Education:</strong> Currently pursuing B.Tech in CSE with a specialization in Artificial Intelligence.</li>
-        <li>🌱 <strong>Learning:</strong> Exploring AI/ML concepts, Generative AI.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI Enthusiast">
-      </div>
-    </td>
-  </tr>
-</table>
+- Currently Pursuing Btech in CSE - AI
+- Learning Artificial intelligence, Machine learning and exploring Generative AI
 
 ---
 
