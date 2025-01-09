@@ -7,26 +7,43 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <ul>
         <li>📘 <strong>Education:</strong> Currently pursuing B.Tech in CSE with a specialization in Artificial Intelligence.</li>
         <li>🌱 <strong>Learning:</strong> Exploring AI/ML concepts, Generative AI.</li>
       </ul>
     </td>
-    <td width="50%">
-      <div align="right">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="AI Enthusiast">
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI Enthusiast">
       </div>
     </td>
   </tr>
 </table>
 
-- 💻 **Work Experience**:  
-  <h3>**Python Developer Intern & AI/ML Intern**</h3>  
-  - Built robust data pipelines using Selenium and BeautifulSoup4.  
-  - Worked on Generative AI projects.  
-  - Implemented an interview assistant machine learning model.  
-  - Integrated video anti-cheating detection. 
+---
+
+## 💻 Work Experience
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><strong>Python Developer Intern & AI/ML Intern</strong></h3>
+      <ul>
+        <li>- Built robust data pipelines using Selenium and BeautifulSoup4.</li>
+        <li>- Worked on Generative AI projects.</li>
+        <li>- Implemented an interview assistant machine learning model.</li>
+        <li>- Integrated video anti-cheating detection.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI Enthusiast">
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 ## ⚙️ Tech Stack
 
