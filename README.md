@@ -89,37 +89,20 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
 
 ---
 
-## 📚 Currently Learning  
+## 📚 Currently Learning
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/26gssPbWjMZG2YtQA/giphy.gif" width="400" alt="Learning GIF">
-    </td>
-    <td width="50%" valign="top">
-      <h3>Currently Exploring</h3>
-      <ul>
-        <li>Advanced <strong>Machine Learning</strong> techniques and frameworks.</li>
-        <li>Building scalable <strong>Generative AI</strong> solutions.</li>
-        <li>Contributing to <strong>open-source AI/ML</strong> projects.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<ul>
+  <li>🔍 Advanced <strong>Machine Learning</strong> techniques and frameworks.</li>
+  <li>🧠 Building scalable <strong>Generative AI</strong> solutions.</li>
+  <li>🚀 Working on various AI/ML <strong>projects</strong> to apply and enhance skills.</li>
+</ul>
 
----
-## 🎯 2025 Goals  
-
-- 🚀 Build and deploy impactful **AI/ML solutions**.  
-- 🌍 Contribute to global AI/ML innovations.  
-- 💡 Master deep learning and **MLOps** for scalable systems.  
 
 ---
 
 ## 📫 Let’s Connect!  
 
-- 💼 [LinkedIn](#)  
-- 🌐 [Portfolio](#)  
-- 📧 **Email**: [Your Email Address]  
+- 💼 [LinkedIn](www.linkedin.com/in/nishrithadamera)  
+- 📧 **Email**: nishrithadamera@gmail.com  
 
 
