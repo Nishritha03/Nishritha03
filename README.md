@@ -2,20 +2,26 @@
 
 Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 6 months of experience in python developement. 🚀 
 
+
 ## 🧠 About Me
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <ul>
-      <li>🌱 <strong>Learning:</strong> Diving deeper into AI/ML concepts, building projects, and sharpening my problem-solving skills.</li>
-      <li>🔬 <strong>Interests:</strong> Generative AI, Data Science, and Natural Language Processing.</li>
-      <li>🎨 <strong>Fun Fact:</strong> I enjoy collaborating with creative people and exploring new ideas.</li>
-    </ul>
-  </div>
-  <div>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="AI Enthusiast">
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🌱 <strong>Learning:</strong> Diving deeper into AI/ML concepts, building projects, and sharpening my problem-solving skills.</li>
+        <li>🔬 <strong>Interests:</strong> Generative AI, Data Science, and Natural Language Processing.</li>
+        <li>🎨 <strong>Fun Fact:</strong> I enjoy collaborating with creative people and exploring new ideas.</li>
+      </ul>
+    </td>
+    <td>
+      <div align="right">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="AI Enthusiast">
+      </div>
+    </td>
+  </tr>
+</table>
+
 
   
 
