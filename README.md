@@ -4,8 +4,9 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
 
 
 ## 🧠 About Me
-- Currently Pursuing Btech in CSE - AI
-- Learning Artificial intelligence, Machine learning and exploring Generative AI
+ Passionate BTech student with a strong background in Python, Machine Learning, Natural Language Processing (NLP),
+ Generative AI, and Computer Vision. Skilled in Python with knowledge of various ML libraries, with hands-on experience in
+ developing AI/ML models
 
 ---
 
@@ -14,10 +15,13 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><strong>Python Developer Intern & AI/ML Intern</strong></h3>
+      <h3><strong>Python Developer Intern </strong></h3>
       <ul>
         <li>- Built robust data pipelines using Selenium and BeautifulSoup4.</li>
         <li>- Worked on Generative AI projects.</li>
+      </ul>
+      <h3><strong>AI/ML Intern </strong></h3>
+      <ul>
         <li>- Implemented an interview assistant machine learning model.</li>
         <li>- Integrated video anti-cheating detection.</li>
       </ul>
