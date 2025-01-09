@@ -84,8 +84,8 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
 
 | **Project**                                   | **Description**                                                                                              | **Link**         |
 |-----------------------------------------------|--------------------------------------------------------------------------------------------------------------|------------------|
-| **Sentiment Analysis for Job Recommendations**| An NLP-powered tool that analyzes sentiment and provides job recommendations based on user preferences.       | [View Project](#https://github.com/Nishritha03/sentiment_analysis_in_job_recommendation)|
-| **Weather Report Bot**                        | A ML Model that deliver real-time weather updates in a conversational format to the user.                      | [View Project](#https://github.com/Nishritha03/Weather-Report-Bot)|  
+| **Sentiment Analysis for Job Recommendations**| An NLP-powered tool that analyzes sentiment and provides job recommendations based on user preferences.       | [View Project](https://github.com/Nishritha03/sentiment_analysis_in_job_recommendation)|
+| **Weather Report Bot**                        | A ML Model that deliver real-time weather updates in a conversational format to the user.                      | [View Project](https://github.com/Nishritha03/Weather-Report-Bot)|  
 
 ---
 
