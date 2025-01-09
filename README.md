@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub! 🌟  
 
-Hi there! I'm **Nishritha** 👋, a passionate **Python Developer** and **AI/ML Intern** on a journey to become a **skilled AI/ML Engineer**. I thrive in exploring cutting-edge technologies, solving real-world problems, and creating impactful projects. 🚀  
+Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 6 months of experience in python developement. 🚀 
 
 ---
 
