@@ -6,13 +6,11 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
 
 ## 🧠 About Me  
 
----
 
 <div align="Right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" alt="AI Enthusiast">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="AI Enthusiast">
 </div>  
 
----
 
 - 💻 **Work Experience**:  
   - **Python Developer Intern**: Built robust data pipelines using Selenium and BeautifulSoup4.  
