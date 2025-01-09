@@ -5,10 +5,23 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
 
 
 ## 🧠 About Me
-🌱 Learning: Diving deeper into AI/ML concepts, building projects, and sharpening my problem-solving skills.
-🔬 Interests: Generative AI, Data Science, and Natural Language Processing.
-🎨 Fun Fact: I enjoy collaborating with creative people and exploring new ideas.
-<div align="right"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="AI Enthusiast"> </div>
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🌱 <strong>Learning:</strong> Diving deeper into AI/ML concepts, building projects, and sharpening my problem-solving skills.</li>
+        <li>🔬 <strong>Interests:</strong> Generative AI, Data Science, and Natural Language Processing.</li>
+        <li>🎨 <strong>Fun Fact:</strong> I enjoy collaborating with creative people and exploring new ideas.</li>
+      </ul>
+    </td>
+    <td>
+      <div align="right">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="AI Enthusiast">
+      </div>
+    </td>
+  </tr>
+</table>
 
 - 💻 **Work Experience**:  
   - **Python Developer Intern**: Built robust data pipelines using Selenium and BeautifulSoup4.  
