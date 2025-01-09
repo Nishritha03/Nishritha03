@@ -89,21 +89,25 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
 
 ---
 
-## 🌟 Fun GIF Break!  
-<div align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="400" alt="Coding Fun">
-</div>  
+## 📚 Currently Learning  
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="400" alt="Coding Fun">
+    </td>
+    <td width="50%" valign="top">
+      <h3>Currently Exploring</h3>
+      <ul>
+        <li>Advanced <strong>Machine Learning</strong> techniques and frameworks.</li>
+        <li>Building scalable <strong>Generative AI</strong> solutions.</li>
+        <li>Contributing to <strong>open-source AI/ML</strong> projects.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
-
-## 📚 Currently Exploring  
-
-- Advanced **Machine Learning** techniques and frameworks.  
-- Building scalable **Generative AI** solutions.  
-- Contributing to **open-source AI/ML** projects.  
-
----
-
 ## 🎯 2025 Goals  
 
 - 🚀 Build and deploy impactful **AI/ML solutions**.  
