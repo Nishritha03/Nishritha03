@@ -17,18 +17,18 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
     <td width="50%" valign="top">
       <h3><strong>Python Developer Intern </strong></h3>
       <ul>
-        <li>- Built robust data pipelines using Selenium and BeautifulSoup4.</li>
-        <li>- Worked on Generative AI projects.</li>
+        <li> Built robust data pipelines using Selenium and BeautifulSoup4.</li>
+        <li> Worked on Generative AI projects.</li>
       </ul>
       <h3><strong>AI/ML Intern </strong></h3>
       <ul>
-        <li>- Implemented an interview assistant machine learning model.</li>
-        <li>- Integrated video anti-cheating detection.</li>
+        <li> Implemented an interview assistant machine learning model.</li>
+        <li> Integrated video anti-cheating detection.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI Enthusiast">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="AI Enthusiast">
       </div>
     </td>
   </tr>
@@ -66,9 +66,12 @@ Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 
 </div>
 
 ### **Data Visualization:**
-<div align="center">
-  <img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge&logo=tableau&logoColor=white" />
+<div align="Left">
+  <img src="https://img.shields.io/badge/Seaborn-9E4E6D?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3E6A8D?style=for-the-badge&logo=plotly&logoColor=white" />
 </div>
+
 
 ---
 
