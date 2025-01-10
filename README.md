@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub! 🌟  
 
-Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the Experience 6 months of experience in python developement. 
+Hi there! I'm **Nishritha**, an aspiring **AI/ML Engineer** with the  6 months of experience in python developement. 
 
 
 ## 🧠 About Me
