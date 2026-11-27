@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="232" viewBox="0 0 860 232" role="img" aria-label="Where a release gets checked: six gates in order, UI, APIs and load, data, logs and cloud, AI output, and AI spend. Each one passes, then the release is ready to ship.">
+  <style>
+    text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .head { font-size: 12px; fill: #8b949e; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+    .num { font-size: 11px; fill: #8b949e; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+    .title { font-size: 14px; font-weight: 700; fill: #e6edf3; }
+    .tool { font-size: 12px; fill: #8b949e; }
+    .wait, .ok { font-size: 11px; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+    .wait { fill: #8b949e; animation: hide .2s forwards; }
+    .ok { fill: #3fb950; font-weight: 700; opacity: 0; animation: show .25s forwards; }
+    .card { animation: pass .35s forwards; }
+    .ship { opacity: 0; animation: show .4s forwards; animation-delay: 5.70s; }
+    .fill { animation: grow 4.80s linear 0.60s forwards; transform: scaleX(0); transform-origin: 21px 0; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes hide { to { opacity: 0; } }
+    @keyframes pass { to { stroke: #3fb950; } }
+    @keyframes grow { to { transform: scaleX(1); } }
+    @media (prefers-reduced-motion: reduce) {
+      .wait { opacity: 0; animation: none; } .ok, .ship { opacity: 1; animation: none; }
+      .card { stroke: #3fb950; animation: none; } .fill { transform: none; animation: none; }
+    }
+  </style>
+  <rect width="860" height="232" rx="10" fill="#0d1117"/>
+  <text x="21" y="34" class="head">$ git push origin main</text>
+  <text x="839" y="34" text-anchor="end" class="head">release-checks · 6 gates</text>
+
+  <g>
+    <rect class="card" style="animation-delay:1.40s" x="21" y="58" width="118" height="106" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <text x="33" y="78" class="num">01</text>
+    <text x="80.0" y="102" text-anchor="middle" class="title">UI</text>
+    <text x="80.0" y="121" text-anchor="middle" class="tool">Playwright E2E</text>
+    <text x="80.0" y="137" text-anchor="middle" class="tool">regression suites</text>
+    <text x="127" y="78" text-anchor="end" class="wait" style="animation-delay:1.40s">queued</text>
+    <text x="127" y="78" text-anchor="end" class="ok" style="animation-delay:1.40s">✓ pass</text>
+  </g>  <path d="M143 111.0 h12" stroke="#30363d" stroke-width="1.5"/><path d="M152 107.5 l5 3.5 l-5 3.5" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  <g>
+    <rect class="card" style="animation-delay:2.20s" x="161" y="58" width="118" height="106" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <text x="173" y="78" class="num">02</text>
+    <text x="220.0" y="102" text-anchor="middle" class="title">APIs and load</text>
+    <text x="220.0" y="121" text-anchor="middle" class="tool">Postman · REST</text>
+    <text x="220.0" y="137" text-anchor="middle" class="tool">JMeter</text>
+    <text x="267" y="78" text-anchor="end" class="wait" style="animation-delay:2.20s">queued</text>
+    <text x="267" y="78" text-anchor="end" class="ok" style="animation-delay:2.20s">✓ pass</text>
+  </g>  <path d="M283 111.0 h12" stroke="#30363d" stroke-width="1.5"/><path d="M292 107.5 l5 3.5 l-5 3.5" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  <g>
+    <rect class="card" style="animation-delay:3.00s" x="301" y="58" width="118" height="106" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <text x="313" y="78" class="num">03</text>
+    <text x="360.0" y="102" text-anchor="middle" class="title">Data</text>
+    <text x="360.0" y="121" text-anchor="middle" class="tool">SQL · MongoDB</text>
+    <text x="360.0" y="137" text-anchor="middle" class="tool">every tenant</text>
+    <text x="407" y="78" text-anchor="end" class="wait" style="animation-delay:3.00s">queued</text>
+    <text x="407" y="78" text-anchor="end" class="ok" style="animation-delay:3.00s">✓ pass</text>
+  </g>  <path d="M423 111.0 h12" stroke="#30363d" stroke-width="1.5"/><path d="M432 107.5 l5 3.5 l-5 3.5" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  <g>
+    <rect class="card" style="animation-delay:3.80s" x="441" y="58" width="118" height="106" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <text x="453" y="78" class="num">04</text>
+    <text x="500.0" y="102" text-anchor="middle" class="title">Logs and cloud</text>
+    <text x="500.0" y="121" text-anchor="middle" class="tool">Datadog</text>
+    <text x="500.0" y="137" text-anchor="middle" class="tool">Azure Service Bus</text>
+    <text x="547" y="78" text-anchor="end" class="wait" style="animation-delay:3.80s">queued</text>
+    <text x="547" y="78" text-anchor="end" class="ok" style="animation-delay:3.80s">✓ pass</text>
+  </g>  <path d="M563 111.0 h12" stroke="#30363d" stroke-width="1.5"/><path d="M572 107.5 l5 3.5 l-5 3.5" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  <g>
+    <rect class="card" style="animation-delay:4.60s" x="581" y="58" width="118" height="106" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <text x="593" y="78" class="num">05</text>
+    <text x="640.0" y="102" text-anchor="middle" class="title">AI output</text>
+    <text x="640.0" y="121" text-anchor="middle" class="tool">accuracy</text>
+    <text x="640.0" y="137" text-anchor="middle" class="tool">hallucinations</text>
+    <text x="687" y="78" text-anchor="end" class="wait" style="animation-delay:4.60s">queued</text>
+    <text x="687" y="78" text-anchor="end" class="ok" style="animation-delay:4.60s">✓ pass</text>
+  </g>  <path d="M703 111.0 h12" stroke="#30363d" stroke-width="1.5"/><path d="M712 107.5 l5 3.5 l-5 3.5" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  <g>
+    <rect class="card" style="animation-delay:5.40s" x="721" y="58" width="118" height="106" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <text x="733" y="78" class="num">06</text>
+    <text x="780.0" y="102" text-anchor="middle" class="title">AI spend</text>
+    <text x="780.0" y="121" text-anchor="middle" class="tool">token cost</text>
+    <text x="780.0" y="137" text-anchor="middle" class="tool">per feature</text>
+    <text x="827" y="78" text-anchor="end" class="wait" style="animation-delay:5.40s">queued</text>
+    <text x="827" y="78" text-anchor="end" class="ok" style="animation-delay:5.40s">✓ pass</text>
+  </g>
+  <rect x="21" y="186" width="818" height="6" rx="3" fill="#30363d"/>
+  <rect class="fill" x="21" y="186" width="818" height="6" rx="3" fill="#3fb950"/>
+  <text x="839" y="216" text-anchor="end" class="ship" style="font-size:14px;font-weight:700;fill:#3fb950">✓ ready to ship</text>
+  <text x="21" y="216" class="head ship">6 of 6 gates passed</text>
+</svg>

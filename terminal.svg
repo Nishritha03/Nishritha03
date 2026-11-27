@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="340" viewBox="0 0 860 340" role="img" aria-label="A terminal running pytest on Nishritha: six tests pass and test_inbox_zero is an expected failure.">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 13.5px; white-space: pre; }
+    .l { opacity: 0; animation: show .25s ease-out forwards; }
+    .cursor { animation: show .1s forwards, blink 1.1s steps(1) infinite; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .l, .cursor { animation: none; opacity: 1; } }
+  </style>
+  <defs>
+    <clipPath id="type">
+      <rect x="0" y="50" width="0" height="30">
+        <animate attributeName="width" from="0" to="860" begin="0.4s" dur="1.4s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <rect width="860" height="340" rx="10" fill="#0d1117"/>
+  <rect width="860" height="34" rx="10" fill="#161b22"/>
+  <rect y="24" width="860" height="10" fill="#161b22"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f57"/><circle cx="42" cy="17" r="6" fill="#febc2e"/><circle cx="62" cy="17" r="6" fill="#28c840"/>
+  <text x="430" y="21.5" text-anchor="middle" fill="#8b949e" style="font-size:12px">~/qa — release-checks</text>
+    <g clip-path="url(#type)"><text x="26" y="72"><tspan fill="#3fb950">nishritha@hyd</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">pytest people/nishritha_damera.py -v</tspan></text></g>
+  <text class="l" style="animation-delay:2.00s" x="26" y="106"><tspan fill="#e6edf3">test_ai_answers_are_accurate_not_just_fluent</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#3fb950" font-weight="700">PASSED</tspan></text>
+  <text class="l" style="animation-delay:2.45s" x="26" y="130"><tspan fill="#e6edf3">test_same_prompt_survives_a_rerun</tspan><tspan fill="#484f58"> ................. </tspan><tspan fill="#3fb950" font-weight="700">PASSED</tspan><tspan fill="#8b949e">  # non-deterministic output</tspan></text>
+  <text class="l" style="animation-delay:2.90s" x="26" y="152"><tspan fill="#e6edf3">test_tenant_a_never_sees_tenant_b</tspan><tspan fill="#484f58"> ................. </tspan><tspan fill="#3fb950" font-weight="700">PASSED</tspan><tspan fill="#8b949e">  # 5 tenants</tspan></text>
+  <text class="l" style="animation-delay:3.35s" x="26" y="176"><tspan fill="#e6edf3">test_reports_finish_before_the_coffee</tspan><tspan fill="#484f58"> ............. </tspan><tspan fill="#3fb950" font-weight="700">PASSED</tspan><tspan fill="#8b949e">  # 15-20 min -&gt; ~3 min</tspan></text>
+  <text class="l" style="animation-delay:3.80s" x="26" y="198"><tspan fill="#e6edf3">test_one_tool_is_not_eating_the_budget</tspan><tspan fill="#484f58"> ............ </tspan><tspan fill="#3fb950" font-weight="700">PASSED</tspan><tspan fill="#8b949e">  # $40-50/report -&gt; one MCP tool</tspan></text>
+  <text class="l" style="animation-delay:4.25s" x="26" y="222"><tspan fill="#e6edf3">test_flaky_tests_stay_fixed</tspan><tspan fill="#484f58"> ....................... </tspan><tspan fill="#3fb950" font-weight="700">PASSED</tspan><tspan fill="#8b949e">  # one locator module</tspan></text>
+  <text class="l" style="animation-delay:4.70s" x="26" y="244"><tspan fill="#e6edf3">test_inbox_zero</tspan><tspan fill="#484f58"> ................................... </tspan><tspan fill="#d29922" font-weight="700">XFAIL </tspan><tspan fill="#8b949e">  # known issue</tspan></text>
+  <text class="l" style="animation-delay:5.45s" x="26" y="281"><tspan fill="#3fb950">============ </tspan><tspan fill="#3fb950" font-weight="700">6 passed</tspan><tspan fill="#3fb950">, </tspan><tspan fill="#d29922" font-weight="700">1 xfailed</tspan><tspan fill="#3fb950"> in nearly 2 years ============</tspan></text>
+  <text class="l" style="animation-delay:5.95s" x="26" y="314"><tspan fill="#3fb950">nishritha@hyd</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan></text><rect class="l cursor" style="animation-delay:5.95s, 5.95s" x="164" y="300" width="8" height="16" fill="#e6edf3"/>
+</svg>
